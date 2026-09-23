@@ -8,6 +8,11 @@ ad hoc.
 Built on [OpenJarvis](https://github.com/open-jarvis/OpenJarvis), a local-first
 agent framework that supports open-weight models alongside proprietary APIs.
 
+> **AI-assisted development:** much of this repository's documentation and
+> scaffolding was created collaboratively with AI coding agents. See
+> [AI_POLICY.md](AI_POLICY.md) for the disclosure and attribution
+> conventions used throughout.
+
 ## The concept
 
 Building an AI agent has two parts. First, the generic plumbing: the loop that
